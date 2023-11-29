@@ -1,33 +1,27 @@
-# TestDotnetBot
+# MAUI dotnet Bot Demo
 
 ## Introduction
+Welcome to the MAUI dotnet Bot demo! This project aims to showcase the capabilities of .NET MAUI by integrating 3D assets using Evergine. By extending the default .NET MAUI template, we've incorporated engaging 3D content to demonstrate the exciting possibilities of this framework.
 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.
+This demo was featured in the enlightening session titled "Building 3D Apps with .NET MAUI and Evergine," presented during the Microsoft .NET Conf 2023. For a detailed walkthrough, you can watch the [session on YouTube](https://www.youtube.com/watch?v=vWAXrP69QX4).
 
-## Getting Started
+<center><img src="Screenshots/MAUIBotOptimized.gif" width="400"/></center>
 
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+## Build and Run
+To get started, ensure you have the following prerequisites:
 
-1. Installation process
-2. Software dependencies
-3. Latest releases
-4. API references
+* Visual Studio 2022 with .NET 8 support
+* Evergine installed on your development environment
 
-## Build and Test
+Follow these steps to build and run the project:
 
-TODO: Describe and show how to build your code and run the tests.
+1. Clone this repository to your local machine.
+2. Open the project in Visual Studio 2022.
+3. Ensure that your Visual Studio has .NET 8 support installed.
+4. Make sure Evergine is installed and configured on your system.
+5. Build and run the project using the standard build and run commands in Visual Studio.
+6. Feel free to explore the codebase, experiment with the 3D assets, and leverage the power of .NET MAUI in creating immersive mobile applications.
 
-## Contribute
+For more information about Evergine, visit [Evergine's website](https://evergine.com/).
 
-TODO: Explain how other users and developers can contribute to make your code better.
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops).
-
-----
-Powered by **[Evergine](http://www.evergine.com)**
-
-LET'S CONNECT!
-
-- [Youtube](https://www.youtube.com/subscription_center?add_user=EvergineChannel)
-- [Twitter](https://twitter.com/EvergineTeam)
-- [Blog](http://geeks.ms/evergineteam/)
+Thank you for checking out the __MAUI dotnet Bot demo__! If you have any questions or feedback, please feel free to reach out.
